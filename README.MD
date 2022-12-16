@@ -26,7 +26,6 @@ bash script2.sh
 bash script3.sh
 bash script4.sh
 ```
-
 ## Reproduce The Figures and Tables
 
 To reproduce the figures and tables, try running:
