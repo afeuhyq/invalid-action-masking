@@ -1,6 +1,6 @@
 # Policy Gradient Algorithms for Invalid Action Masking
 
-This repo is inherited from the paper A Closer Look at Invalid Action Masking in Policy Gradient Algorithms [paper](https://arxiv.org/abs/2006.14171) [code](https://github.com/vwxyzjn/invalid-action-masking). In this repo, we provide the source code to reproduce the results in the paper (Policy Gradient Algorithms for Invalid Action Masking). 
+This repo is inherited from the paper A Closer Look at Invalid Action Masking in Policy Gradient Algorithms [[paper](https://arxiv.org/abs/2006.14171)] [[code](https://github.com/vwxyzjn/invalid-action-masking)]. In this repo, we provide the source code to reproduce the results in the paper (Policy Gradient Algorithms for Invalid Action Masking). 
 
 ## Get started
 
